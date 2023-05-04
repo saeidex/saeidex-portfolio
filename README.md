@@ -1,6 +1,8 @@
-# Project-02-Portfolio
+# Building A Portfolio Website
 
-> **Cloned Project**
+![ScreenShot](./public/my-app.png)
+
+> **# Cloned Project** 01
 
 **Learned from** : [Slaying The Dragon](https://www.youtube.com/@slayingthedragon "YouTube")
 
