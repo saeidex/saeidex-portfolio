@@ -19,3 +19,4 @@
 - Lazy Lodding
   - Placeholder image
   - Filter blur, Transition
+- Essential Meta Tags
