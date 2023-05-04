@@ -1,6 +1,6 @@
 # Project-02-Portfolio
 
-> **Clone Project**
+> **Cloned Project**
 
 **Learned from** : [Slaying The Dragon](https://www.youtube.com/@slayingthedragon "YouTube")
 
@@ -8,12 +8,12 @@
 
 ## Main Features
 
-- mobile menu
-- custom scrollbar
+- Mobile menu
+- Custom scrollbar
 
 ## Upcomming Features
 
-- light-mode / changing theme
+- Light-mode / changing theme
 - Lazy Lodding
   - Placeholder image
   - Filter blur, Transition
