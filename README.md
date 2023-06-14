@@ -1,12 +1,10 @@
-# Building A Portfolio Website
-
 ![ScreenShot](./public/my-app.png)
 
-> **# Cloned Project** 01
+# Building A Portfolio Website
 
-**Learned from** : [Slaying The Dragon](https://www.youtube.com/@slayingthedragon "YouTube")
+`project` `index-02` `cloned`
 
-**Tutorial** Link by STD is [*here*](https://www.youtube.com/watch?v=dLDn_k8GmaU "YouTube")
+**Tutorial** by [**STD**](https://www.youtube.com/watch?v=dLDn_k8GmaU "YouTube")
 
 ## Main Features
 
