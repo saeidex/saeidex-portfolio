@@ -1,6 +1,6 @@
-![ScreenShot](./public/my-app.png)
-
 # Building A Portfolio Website
+
+![ScreenShot](./public/my-app.png)
 
 `project` `index-02` `cloned`
 
