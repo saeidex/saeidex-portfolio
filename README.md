@@ -6,11 +6,6 @@
 
 **Tutorial** by [**STD**](https://www.youtube.com/watch?v=dLDn_k8GmaU "YouTube")
 
-## Main Features
-
-- Mobile menu
-- Custom scrollbar
-
 ## Upcomming Features
 
 - Light-mode / changing theme
